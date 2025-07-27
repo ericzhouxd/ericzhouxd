@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently an undergrad at UCLA
-- I'm currently learning about LLMs
+- I'm studying Applied Math and Data Science Engineering at UCLA
