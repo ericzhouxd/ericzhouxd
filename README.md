@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - I'm studying Applied Math and Data Science Engineering at UCLA
+- My research lies at the intersection of sets in the trivial topology
